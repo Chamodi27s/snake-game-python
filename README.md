@@ -14,12 +14,6 @@ A classic Snake game built with Python and Pygame. Use the arrow keys to control
 - Python 3.x
 - Pygame
 
-You can install Pygame using pip:
-
-```bash
-pip install pygame
-
-
 How To Run:
 git clone https://github.com/Chamodi27s/snake-game-python.git
 cd snake-game-python
@@ -40,5 +34,13 @@ Add a score display
 Add sound effects
 
 Speed up the snake as it grows
-
 Save high scores
+
+You can install Pygame using pip:
+
+```bash
+pip install pygame
+
+
+
+
